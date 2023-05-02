@@ -1,0 +1,8 @@
+# Build fájlok
+# *.class
+# *.jar
+target/
+
+# Rejtett fájlok
+.*
+!.gitignore

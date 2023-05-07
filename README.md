@@ -15,3 +15,5 @@ mvn archetype:generate
 -DarchetypeVersion=1.4
 -DinteractiveMode=false
 -DoutputDirectory=../
+
+Ez egy távoli változtatás

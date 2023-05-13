@@ -17,3 +17,5 @@ mvn archetype:generate
 -DoutputDirectory=../
 
 Ez egy távoli változtatás
+
+Ez a commit egy fast forward merge része lesz

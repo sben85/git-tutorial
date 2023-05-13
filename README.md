@@ -6,6 +6,7 @@ Ez egy Java nyelven íródott projekt !!
 ## Előfeltételek
 * Maven
 * Java JDK 16
+* Three-way merge
 
 ## Magic
 mvn archetype:generate
